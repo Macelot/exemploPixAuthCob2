@@ -49,7 +49,7 @@ public class App
 		} catch (Exception e) {
 			// TODO: handle exception
 			e.printStackTrace();
-			System.out.println("Erro no pagamento");
+			System.out.println("Erro na cobrança");
 		}
         
     }
