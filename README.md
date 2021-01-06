@@ -24,3 +24,4 @@ A cobrança precisa do token da autenticação. Não será necessário o certifi
 Será criada uma cobrança que ficará com o status ativo e uma data de criação neste formato: "criacao":"2021-01-06T21:49:14.398Z"
 
 Para mais informações consulte a documentação oficial da API Pix Gerencianet, disponível em: https://dev.gerencianet.com.br/docs/api-pix#section-criar-cobran-a-
+
